@@ -1,0 +1,10 @@
+# Virtual environments
+qiskit-env/
+venv/
+.venv/
+
+# Python / Jupyter junk
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.save
